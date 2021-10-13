@@ -1,6 +1,6 @@
 # Customer-Churn-Project
 
-![Image]https://miro.medium.com/max/1200/1*WqId29D5dN_8DhiYQcHa2w.png)
+![Image](https://miro.medium.com/max/1200/1*WqId29D5dN_8DhiYQcHa2w.png)
 
 
 ## Context
